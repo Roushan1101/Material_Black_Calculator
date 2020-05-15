@@ -1,0 +1,82 @@
+body{
+
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position:top;
+}
+.body1
+{
+  background-image: url("https://wallpapersafari.com/download/weklso/");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow:hidden;
+}
+p1 {color:blue;
+  font-size:20px;
+  }
+h3{
+padding-top: 240px;
+color:white;
+}
+h5{
+padding-top: 240px;
+color:white;
+}
+
+input{
+  color:black;
+}
+span{
+  color:white;
+  font-style:normal;
+  font-size: 25px;
+}
+li{
+  color:white;
+}
+button{
+  padding:10px 20px;
+  color:black;
+  margin-top: 300px;
+}
+.button1{
+  margin-right: 180px;
+}
+.button2{
+  margin-right: 155px;
+}
+.button3{
+
+}
+.button4{
+
+  margin-top: 40px;
+}
+.button5{
+padding:0px 0px;
+}
+iframe
+{
+  height: 550px;
+  width: 670px;
+  border: outset;
+  border-color: white;
+  margin-left: 330px;
+  scroll-behavior: "no"
+}
+div{
+  height:55px;
+  width:350px;
+}
+td{
+  color:white;
+  font-size:15px;
+}
+footer{
+  margin-top:-20px;
+}
+a{
+  color:grey;
+}
